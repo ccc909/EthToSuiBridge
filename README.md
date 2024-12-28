@@ -2,7 +2,7 @@
 
 ### 1. Clone the Project
 ```bash
-git clone https://link-to-project
+git clone https://github.com/ccc909/EthToSuiBridge.git
 ```
 
 ---
