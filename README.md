@@ -1,5 +1,3 @@
----
-
 ## Run Locally
 
 ### 1. Clone the Project
